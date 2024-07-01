@@ -1,17 +1,17 @@
 # DAILY TASKS THAT WERE PRACTICED EFFICIENTLY OF DIFFERENT TOPICS AND CONCEPTS
 
 ## 5th JUNE
- Creating Repositories and learned pushing repos using commands
+ ### Creating Repositories and learned pushing repos using commands
 
 ## 6th june
-  python basics, loops, fuctions
+  ### Python basics, loops, fuctions
 
 ## 7th june
-  python oops concepts
-  Project stated using python flask and AP1 creation
+  ### python oops concepts
+  ### Project stated using python flask and AP1 creation
 
 ## 8th june
-  python Inheritance in oops concept
+  ### python Inheritance in oops concept
   Exception Handling
   Learning about flask python usage and basics
 
